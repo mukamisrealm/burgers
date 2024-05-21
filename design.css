@@ -1,6 +1,6 @@
 body
 .index{
-    font-style: oblique;
+    font-style: oblique;text-align: center;
 }
 
 .about{
@@ -14,7 +14,7 @@ text-align: center;color: black;font-style: oblique;
 }
 
 .contact{
-font-style: oblique;
+font-style: oblique;text-align: center;
 }
 
 .images {
