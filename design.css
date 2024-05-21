@@ -14,7 +14,7 @@ text-align: center;color: black;font-style: oblique;
 }
 
 .contact{
-font-style: oblique;text-align: center;
+font-style: oblique;text-align: center;background-image: url("Photos\Ivy - 3' x 4_5'.jpeg");
 }
 
 .images {
@@ -34,5 +34,10 @@ font-style: oblique;text-align: center;
 }
 
 .branches{
-    font-style: oblique;text-align: center;background-image: url(Photos/Dark academia floral print.jpeg);
+    font-style: oblique;text-align: center; background-image: url('C:\xampp\htdocs\burgers\Photos\Dark academia floral print.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
+
