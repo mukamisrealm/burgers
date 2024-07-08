@@ -10,13 +10,13 @@
     <div class="container">
         <header>
             <nav class="navbar">
-                <a href="index.html">Home</a>
-                <a href="about.html">About Us</a>
-                <a href="registration.html">Registration</a>
-                <a href="contact.html">Contacts</a>
-                <a href="images.html">Images</a>
-                <a href="branches.html">Branches</a>
-                <a href="signup.html">Sign up</a>
+                <a href="index.php">Home</a>
+                <a href="about.php">About Us</a>
+                <a href="registration.php">Registration</a>
+                <a href="contact.php">Contacts</a>
+                <a href="images.php">Images</a>
+                <a href="branches.php">Branches</a>
+                <a href="signup.php">Sign up</a>
             </nav>
         </header>
 

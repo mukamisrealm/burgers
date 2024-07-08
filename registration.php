@@ -13,26 +13,26 @@
     </head>
     <body class="branches">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html">Home</a>
+        <a class="navbar-brand" href="index.php">Home</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="registration.html">Registration</a>
+                    <a class="nav-link" href="registration.php">Registration</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contacts</a>
+                    <a class="nav-link" href="contact.php">Contacts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="images.html">Images</a>
+                    <a class="nav-link" href="images.php">Images</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="branches.html">Branches</a>
+                    <a class="nav-link" href="branches.php">Branches</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
